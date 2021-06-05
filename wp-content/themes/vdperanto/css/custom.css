@@ -422,7 +422,7 @@ input[type="text"].search_btn {
 	margin: 0;
 }
 .search_box input.search_btn {
-    background: rgba(0, 0, 0, 0) url("../images/search_btn.png") no-repeat scroll center center;
+    background: rgba(0, 0, 0, 0) url("https://proprateeksahu.github.io/College/wp-content/themes/vdperanto/images/search_btn.png") no-repeat scroll center center;
     cursor: pointer;
     float: left;
     height: 38px;
